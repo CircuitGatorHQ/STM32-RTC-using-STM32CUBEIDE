@@ -1,6 +1,6 @@
 # STM32-RTC-using-STM32CUBEIDE
 Below is an easy and short code you can use to access the real time clock (RTC) of an STM32 microcontroller. The date and time obtained is displayed on a serial terminal using UART.
-The full tutorial video is available on YouTube:
+The full tutorial video is available on YouTube: https://youtu.be/SFFdxT2u56w?si=5wqP8wTvSQJbv1-Z
 
     /* Private includes ----------------------------------------------------------*/
     /* USER CODE BEGIN Includes */
